@@ -1,0 +1,4 @@
+frontend/example.zip
+terraform/.terraform
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
